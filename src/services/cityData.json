@@ -1,0 +1,609 @@
+{
+    "City": [{
+            "value": null,
+            "text": "Please select city"
+        },
+        {
+            "value": "Karachi",
+            "text": "Karachi"
+        },
+        {
+            "value": "Lahore",
+            "text": "Lahore"
+        },
+        {
+            "value": "Sialkot City",
+            "text": "Sialkot City"
+        },
+        {
+            "value": "Faisalabad",
+            "text": "Faisalabad"
+        },
+        {
+            "value": "Rawalpindi",
+            "text": "Rawalpindi"
+        },
+        {
+            "value": "Peshawar",
+            "text": "Peshawar"
+        },
+        {
+            "value": "Saidu Sharif",
+            "text": "Saidu Sharif"
+        },
+        {
+            "value": "Multan",
+            "text": "Multan"
+        },
+        {
+            "value": "Gujranwala",
+            "text": "Gujranwala"
+        },
+        {
+            "value": "Islamabad",
+            "text": "Islamabad"
+        },
+        {
+            "value": "Quetta",
+            "text": "Quetta"
+        },
+        {
+            "value": "Bahawalpur",
+            "text": "Bahawalpur"
+        },
+        {
+            "value": "Sargodha",
+            "text": "Sargodha"
+        },
+        {
+            "value": "New Mirpur",
+            "text": "New Mirpur"
+        },
+        {
+            "value": "Chiniot",
+            "text": "Chiniot"
+        },
+        {
+            "value": "Sukkur",
+            "text": "Sukkur"
+        },
+        {
+            "value": "Larkana",
+            "text": "Larkana"
+        },
+        {
+            "value": "Shekhupura",
+            "text": "Shekhupura"
+        },
+        {
+            "value": "Jhang City",
+            "text": "Jhang City"
+        },
+        {
+            "value": "Rahimyar Khan",
+            "text": "Rahimyar Khan"
+        },
+        {
+            "value": "Gujrat",
+            "text": "Gujrat"
+        },
+        {
+            "value": "Kasur",
+            "text": "Kasur"
+        },
+        {
+            "value": "Mardan",
+            "text": "Mardan"
+        },
+        {
+            "value": "Mingaora",
+            "text": "Mingaora"
+        },
+        {
+            "value": "Dera Ghazi Khan",
+            "text": "Dera Ghazi Khan"
+        },
+        {
+            "value": "Nawabshah",
+            "text": "Nawabshah"
+        },
+        {
+            "value": "Sahiwal",
+            "text": "Sahiwal"
+        },
+        {
+            "value": "Mirpur Khas",
+            "text": "Mirpur Khas"
+        },
+        {
+            "value": "Okara",
+            "text": "Okara"
+        },
+        {
+            "value": "Mandi Burewala",
+            "text": "Mandi Burewala"
+        },
+        {
+            "value": "Jacobabad",
+            "text": "Jacobabad"
+        },
+        {
+            "value": "Saddiqabad",
+            "text": "Saddiqabad"
+        },
+        {
+            "value": "Kohat",
+            "text": "Kohat"
+        },
+        {
+            "value": "Muridke",
+            "text": "Muridke"
+        },
+        {
+            "value": "Muzaffargarh",
+            "text": "Muzaffargarh"
+        },
+        {
+            "value": "Khanpur",
+            "text": "Khanpur"
+        },
+        {
+            "value": "Gojra",
+            "text": "Gojra"
+        },
+        {
+            "value": "Mandi Bahauddin",
+            "text": "Mandi Bahauddin"
+        },
+        {
+            "value": "Abbottabad",
+            "text": "Abbottabad"
+        },
+        {
+            "value": "Dadu",
+            "text": "Dadu"
+        },
+        {
+            "value": "Khuzdar",
+            "text": "Khuzdar"
+        },
+        {
+            "value": "Pakpattan",
+            "text": "Pakpattan"
+        },
+        {
+            "value": "Tando Allahyar",
+            "text": "Tando Allahyar"
+        },
+        {
+            "value": "Vihari",
+            "text": "Vihari"
+        },
+        {
+            "value": "Jaranwala",
+            "text": "Jaranwala"
+        },
+        {
+            "value": "Kamalia",
+            "text": "Kamalia"
+        },
+        {
+            "value": "Kot Addu",
+            "text": "Kot Addu"
+        },
+        {
+            "value": "Nowshera",
+            "text": "Nowshera"
+        },
+        {
+            "value": "Swabi",
+            "text": "Swabi"
+        },
+        {
+            "value": "Dera Ismail Khan",
+            "text": "Dera Ismail Khan"
+        },
+        {
+            "value": "Chaman",
+            "text": "Chaman"
+        },
+        {
+            "value": "Charsadda",
+            "text": "Charsadda"
+        },
+        {
+            "value": "Kandhkot",
+            "text": "Kandhkot"
+        },
+        {
+            "value": "Hasilpur",
+            "text": "Hasilpur"
+        },
+        {
+            "value": "Muzaffarabad",
+            "text": "Muzaffarabad"
+        },
+        {
+            "value": "Mianwali",
+            "text": "Mianwali"
+        },
+        {
+            "value": "Jalalpur Jattan",
+            "text": "Jalalpur Jattan"
+        },
+        {
+            "value": "Bhakkar",
+            "text": "Bhakkar"
+        },
+        {
+            "value": "Zhob",
+            "text": "Zhob"
+        },
+        {
+            "value": "Kharian",
+            "text": "KarKharianachi"
+        },
+        {
+            "value": "Mian Channun",
+            "text": "Mian Channun"
+        },
+        {
+            "value": "Jamshoro",
+            "text": "Jamshoro"
+        },
+        {
+            "value": "Pattoki",
+            "text": "Pattoki"
+        },
+        {
+            "value": "Harunabad",
+            "text": "Harunabad"
+        },
+        {
+            "value": "Toba Tek Singh",
+            "text": "Toba Tek Singh"
+        },
+        {
+            "value": "Shakargarh",
+            "text": "Shakargarh"
+        },
+        {
+            "value": "Hujra Shah Muqim",
+            "text": "Hujra Shah Muqim"
+        },
+        {
+            "value": "Kabirwala",
+            "text": "Kabirwala"
+        },
+        {
+            "value": "Mansehra",
+            "text": "Mansehra"
+        },
+        {
+            "value": "Lala Musa",
+            "text": "Lala Musa"
+        },
+        {
+            "value": "Nankana Sahib",
+            "text": "Nankana Sahib"
+        },
+        {
+            "value": "Bannu",
+            "text": "Bannu"
+        },
+        {
+            "value": "Timargara",
+            "text": "Timargara"
+        },
+        {
+            "value": "Parachinar",
+            "text": "Parachinar"
+        },
+        {
+            "value": "Gwadar",
+            "text": "Gwadar"
+        },
+        {
+            "value": "Abdul Hakim",
+            "text": "Abdul Hakim"
+        },
+        {
+            "value": "Hassan Abdal",
+            "text": "Hassan Abdal"
+        },
+        {
+            "value": "Tank",
+            "text": "Tank"
+        },
+        {
+            "value": "Hangu",
+            "text": "Hangu"
+        },
+        {
+            "value": "Risalpur Cantonment",
+            "text": "Risalpur Cantonment"
+        },
+        {
+            "value": "Karak",
+            "text": "Karak"
+        },
+        {
+            "value": "Kundian",
+            "text": "Kundian"
+        },
+        {
+            "value": "Umarkot",
+            "text": "Umarkot"
+        },
+        {
+            "value": "Chitral",
+            "text": "Chitral"
+        },
+        {
+            "value": "Dainyor",
+            "text": "Dainyor"
+        },
+        {
+            "value": "Kulachi",
+            "text": "Kulachi"
+        },
+        {
+            "value": "Kotli",
+            "text": "Kotli"
+        },
+        {
+            "value": "Gilgit",
+            "text": "Gilgit"
+        },
+        {
+            "value": "Hyderabad City",
+            "text": "Hyderabad City"
+        },
+        {
+            "value": "Narowal",
+            "text": "Narowal"
+        },
+        {
+            "value": "Khairpur Mir’s",
+            "text": "Khairpur Mir’s"
+        },
+        {
+            "value": "Khanewal",
+            "text": "Khanewal"
+        },
+        {
+            "value": "Jhelum",
+            "text": "Jhelum"
+        },
+        {
+            "value": "Haripur",
+            "text": "Haripur"
+        },
+        {
+            "value": "Shikarpur",
+            "text": "Shikarpur"
+        },
+        {
+            "value": "Rawala Kot",
+            "text": "Rawala Kot"
+        },
+        {
+            "value": "Hafizabad",
+            "text": "Hafizabad"
+        },
+        {
+            "value": "Lodhran",
+            "text": "Lodhran"
+        },
+        {
+            "value": "Malakand",
+            "text": "Malakand"
+        },
+        {
+            "value": "Attock City",
+            "text": "Attock City"
+        },
+        {
+            "value": "Batgram",
+            "text": "Batgram"
+        },
+        {
+            "value": "Matiari",
+            "text": "Matiari"
+        },
+        {
+            "value": "Ghotki",
+            "text": "Ghotki"
+        },
+        {
+            "value": "Naushahro Firoz",
+            "text": "Naushahro Firoz"
+        },
+        {
+            "value": "Alpurai",
+            "text": "Alpurai"
+        },
+        {
+            "value": "Bagh",
+            "text": "Bagh"
+        },
+        {
+            "value": "Daggar",
+            "text": "Daggar"
+        },
+        {
+            "value": "Bahawalnagar",
+            "text": "Bahawalnagar"
+        },
+        {
+            "value": "Leiah",
+            "text": "Leiah"
+        },
+        {
+            "value": "Tando Muhammad Khan",
+            "text": "Tando Muhammad Khan"
+        },
+        {
+            "value": "Chakwal",
+            "text": "Chakwal"
+        },
+        {
+            "value": "Khushab",
+            "text": "Khushab"
+        },
+        {
+            "value": "Badin",
+            "text": "Badin"
+        },
+        {
+            "value": "Lakki",
+            "text": "Lakki"
+        },
+        {
+            "value": "Rajanpur",
+            "text": "Rajanpur"
+        },
+        {
+            "value": "Dera Allahyar",
+            "text": "Dera Allahyar"
+        },
+        {
+            "value": "Shahdad Kot",
+            "text": "Shahdad Kot"
+        },
+        {
+            "value": "Pishin",
+            "text": "Pishin"
+        },
+        {
+            "value": "Sanghar",
+            "text": "Sanghar"
+        },
+        {
+            "value": "Upper Dir",
+            "text": "Upper Dir"
+        },
+        {
+            "value": "Thatta",
+            "text": "Thatta"
+        },
+        {
+            "value": "Dera Murad Jamali",
+            "text": "Dera Murad Jamali"
+        },
+        {
+            "value": "Kohlu",
+            "text": "Kohlu"
+        },
+        {
+            "value": "Mastung",
+            "text": "Mastung"
+        },
+        {
+            "value": "Dasu",
+            "text": "Dasu"
+        },
+        {
+            "value": "Athmuqam",
+            "text": "Athmuqam"
+        },
+        {
+            "value": "Loralai",
+            "text": "Loralai"
+        },
+        {
+            "value": "Barkhan",
+            "text": "Barkhan"
+        },
+        {
+            "value": "Musa Khel Bazar",
+            "text": "Musa Khel Bazar"
+        },
+        {
+            "value": "Ziarat",
+            "text": "Ziarat"
+        },
+        {
+            "value": "Gandava",
+            "text": "Gandava"
+        },
+        {
+            "value": "Sibi",
+            "text": "Sibi"
+        },
+        {
+            "value": "Dera Bugti",
+            "text": "Dera Bugti"
+        },
+        {
+            "value": "Eidgah",
+            "text": "Eidgah"
+        },
+        {
+            "value": "Turbat",
+            "text": "Turbat"
+        },
+        {
+            "value": "Uthal",
+            "text": "Uthal"
+        },
+        {
+            "value": "Chilas",
+            "text": "Chilas"
+        },
+        {
+            "value": "Kalat",
+            "text": "Kalat"
+        },
+        {
+            "value": "Panjgur",
+            "text": "Panjgur"
+        },
+        {
+            "value": "Gakuch",
+            "text": "Gakuch"
+        },
+        {
+            "value": "Qila Saifullah",
+            "text": "Qila Saifullah"
+        },
+        {
+            "value": "Kharan",
+            "text": "Kharan"
+        },
+        {
+            "value": "Aliabad",
+            "text": "Aliabad"
+        },
+        {
+            "value": "Awaran",
+            "text": "Awaran"
+        },
+        {
+            "value": "Dalbandin",
+            "text": "Dalbandin"
+        }
+    ],
+    "Class": [{
+            "value": null,
+            "text": "Please select class"
+        },
+        {
+            "value": "Matric",
+            "text": "Matric"
+        },
+        {
+            "value": "1st Year",
+            "text": "1st Year"
+        },
+        {
+            "value": "2nd Year",
+            "text": "2nd Year"
+        },
+
+        {
+            "value": "A-level",
+            "text": "A-level"
+        }
+    ]
+}
